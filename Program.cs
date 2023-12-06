@@ -246,7 +246,8 @@ namespace second_week1
                 Console.WriteLine(lists[i]);
             }
 
-           Console.WriteLine(" Please Enter a the number of the task from 6 to 17");
+           Console.WriteLine("Please Enter a the number of the task from 6 to 17");
+           Console.WriteLine("Please Enter a the number of the task from 6 to 17");
             int option = Convert.ToInt32(Console.ReadLine());
 
             if(option == 6)
